@@ -21,8 +21,7 @@ pip install pandas matplotlib
 
 ## ▶️ How to Run
 1. Clone this repository to your local machine.
-2. Place the bakery-sales.csv file in the same directory as the script.
-3. Run the script:
+2. Run the script:
 
 ```bash
 python3 bakery_sales_analysis.py
